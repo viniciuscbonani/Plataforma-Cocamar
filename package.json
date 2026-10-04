@@ -1,0 +1,11 @@
+{
+  "name": "cocamar-relacionamento",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo HTML, CSS e JavaScript da plataforma Cocamar",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check app.js && node --check ui.js && node --check server.js"
+  }
+}
